@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\5. Exercise List\04.ListOperations\bin\Debug\net5.0\04.ListOperations.exe
+C:\progr\fundamentalмай\5. Exercise List\04.ListOperations\bin\Debug\net5.0\04.ListOperations.deps.json
+C:\progr\fundamentalмай\5. Exercise List\04.ListOperations\bin\Debug\net5.0\04.ListOperations.runtimeconfig.json
+C:\progr\fundamentalмай\5. Exercise List\04.ListOperations\bin\Debug\net5.0\04.ListOperations.runtimeconfig.dev.json
+C:\progr\fundamentalмай\5. Exercise List\04.ListOperations\bin\Debug\net5.0\04.ListOperations.dll
+C:\progr\fundamentalмай\5. Exercise List\04.ListOperations\bin\Debug\net5.0\04.ListOperations.pdb
+C:\progr\fundamentalмай\5. Exercise List\04.ListOperations\obj\Debug\net5.0\04.ListOperations.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\5. Exercise List\04.ListOperations\obj\Debug\net5.0\04.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\5. Exercise List\04.ListOperations\obj\Debug\net5.0\04.ListOperations.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\5. Exercise List\04.ListOperations\obj\Debug\net5.0\04.ListOperations.AssemblyInfo.cs
+C:\progr\fundamentalмай\5. Exercise List\04.ListOperations\obj\Debug\net5.0\04.ListOperations.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\5. Exercise List\04.ListOperations\obj\Debug\net5.0\04.ListOperations.dll
+C:\progr\fundamentalмай\5. Exercise List\04.ListOperations\obj\Debug\net5.0\refint\04.ListOperations.dll
+C:\progr\fundamentalмай\5. Exercise List\04.ListOperations\obj\Debug\net5.0\04.ListOperations.pdb
+C:\progr\fundamentalмай\5. Exercise List\04.ListOperations\obj\Debug\net5.0\04.ListOperations.genruntimeconfig.cache
+C:\progr\fundamentalмай\5. Exercise List\04.ListOperations\obj\Debug\net5.0\ref\04.ListOperations.dll

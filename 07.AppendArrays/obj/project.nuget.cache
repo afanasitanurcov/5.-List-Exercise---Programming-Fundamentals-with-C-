@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "13MuAz5NKbU+2itRUaQlfCVAr+rQPyTgzIDvB0BglO6NFgjFx6lcjeI+y04/M3HPBK+R3dXa5T8oY2suAGWg0g==",
+  "success": true,
+  "projectFilePath": "C:\\progr\\C#.Fundamental\\5.ExerciseList\\07.AppendArrays\\07.AppendArrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atanu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\atanu\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\atanu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\atanu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

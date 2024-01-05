@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\5. Exercise List\01.Train\bin\Debug\net5.0\01.Train.exe
+C:\progr\fundamentalмай\5. Exercise List\01.Train\bin\Debug\net5.0\01.Train.deps.json
+C:\progr\fundamentalмай\5. Exercise List\01.Train\bin\Debug\net5.0\01.Train.runtimeconfig.json
+C:\progr\fundamentalмай\5. Exercise List\01.Train\bin\Debug\net5.0\01.Train.runtimeconfig.dev.json
+C:\progr\fundamentalмай\5. Exercise List\01.Train\bin\Debug\net5.0\01.Train.dll
+C:\progr\fundamentalмай\5. Exercise List\01.Train\bin\Debug\net5.0\01.Train.pdb
+C:\progr\fundamentalмай\5. Exercise List\01.Train\obj\Debug\net5.0\01.Train.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\5. Exercise List\01.Train\obj\Debug\net5.0\01.Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\5. Exercise List\01.Train\obj\Debug\net5.0\01.Train.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\5. Exercise List\01.Train\obj\Debug\net5.0\01.Train.AssemblyInfo.cs
+C:\progr\fundamentalмай\5. Exercise List\01.Train\obj\Debug\net5.0\01.Train.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\5. Exercise List\01.Train\obj\Debug\net5.0\01.Train.dll
+C:\progr\fundamentalмай\5. Exercise List\01.Train\obj\Debug\net5.0\refint\01.Train.dll
+C:\progr\fundamentalмай\5. Exercise List\01.Train\obj\Debug\net5.0\01.Train.pdb
+C:\progr\fundamentalмай\5. Exercise List\01.Train\obj\Debug\net5.0\01.Train.genruntimeconfig.cache
+C:\progr\fundamentalмай\5. Exercise List\01.Train\obj\Debug\net5.0\ref\01.Train.dll

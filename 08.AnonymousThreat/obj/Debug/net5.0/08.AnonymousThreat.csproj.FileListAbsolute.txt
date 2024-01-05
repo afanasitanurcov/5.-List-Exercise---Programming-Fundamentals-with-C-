@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\5. Exercise List\08.AnonymousThreat\bin\Debug\net5.0\08.AnonymousThreat.exe
+C:\progr\fundamentalмай\5. Exercise List\08.AnonymousThreat\bin\Debug\net5.0\08.AnonymousThreat.deps.json
+C:\progr\fundamentalмай\5. Exercise List\08.AnonymousThreat\bin\Debug\net5.0\08.AnonymousThreat.runtimeconfig.json
+C:\progr\fundamentalмай\5. Exercise List\08.AnonymousThreat\bin\Debug\net5.0\08.AnonymousThreat.runtimeconfig.dev.json
+C:\progr\fundamentalмай\5. Exercise List\08.AnonymousThreat\bin\Debug\net5.0\08.AnonymousThreat.dll
+C:\progr\fundamentalмай\5. Exercise List\08.AnonymousThreat\bin\Debug\net5.0\08.AnonymousThreat.pdb
+C:\progr\fundamentalмай\5. Exercise List\08.AnonymousThreat\obj\Debug\net5.0\08.AnonymousThreat.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\5. Exercise List\08.AnonymousThreat\obj\Debug\net5.0\08.AnonymousThreat.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\5. Exercise List\08.AnonymousThreat\obj\Debug\net5.0\08.AnonymousThreat.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\5. Exercise List\08.AnonymousThreat\obj\Debug\net5.0\08.AnonymousThreat.AssemblyInfo.cs
+C:\progr\fundamentalмай\5. Exercise List\08.AnonymousThreat\obj\Debug\net5.0\08.AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\5. Exercise List\08.AnonymousThreat\obj\Debug\net5.0\08.AnonymousThreat.dll
+C:\progr\fundamentalмай\5. Exercise List\08.AnonymousThreat\obj\Debug\net5.0\refint\08.AnonymousThreat.dll
+C:\progr\fundamentalмай\5. Exercise List\08.AnonymousThreat\obj\Debug\net5.0\08.AnonymousThreat.pdb
+C:\progr\fundamentalмай\5. Exercise List\08.AnonymousThreat\obj\Debug\net5.0\08.AnonymousThreat.genruntimeconfig.cache
+C:\progr\fundamentalмай\5. Exercise List\08.AnonymousThreat\obj\Debug\net5.0\ref\08.AnonymousThreat.dll

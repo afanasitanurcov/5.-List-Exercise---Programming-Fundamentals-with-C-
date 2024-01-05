@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\5. Exercise List\chernovik\bin\Debug\net5.0\chernovik.exe
+C:\progr\fundamentalмай\5. Exercise List\chernovik\bin\Debug\net5.0\chernovik.deps.json
+C:\progr\fundamentalмай\5. Exercise List\chernovik\bin\Debug\net5.0\chernovik.runtimeconfig.json
+C:\progr\fundamentalмай\5. Exercise List\chernovik\bin\Debug\net5.0\chernovik.runtimeconfig.dev.json
+C:\progr\fundamentalмай\5. Exercise List\chernovik\bin\Debug\net5.0\chernovik.dll
+C:\progr\fundamentalмай\5. Exercise List\chernovik\bin\Debug\net5.0\chernovik.pdb
+C:\progr\fundamentalмай\5. Exercise List\chernovik\obj\Debug\net5.0\chernovik.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\5. Exercise List\chernovik\obj\Debug\net5.0\chernovik.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\5. Exercise List\chernovik\obj\Debug\net5.0\chernovik.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\5. Exercise List\chernovik\obj\Debug\net5.0\chernovik.AssemblyInfo.cs
+C:\progr\fundamentalмай\5. Exercise List\chernovik\obj\Debug\net5.0\chernovik.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\5. Exercise List\chernovik\obj\Debug\net5.0\chernovik.dll
+C:\progr\fundamentalмай\5. Exercise List\chernovik\obj\Debug\net5.0\refint\chernovik.dll
+C:\progr\fundamentalмай\5. Exercise List\chernovik\obj\Debug\net5.0\chernovik.pdb
+C:\progr\fundamentalмай\5. Exercise List\chernovik\obj\Debug\net5.0\chernovik.genruntimeconfig.cache
+C:\progr\fundamentalмай\5. Exercise List\chernovik\obj\Debug\net5.0\ref\chernovik.dll

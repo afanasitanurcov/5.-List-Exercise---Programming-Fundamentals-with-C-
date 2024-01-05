@@ -1,0 +1,16 @@
+C:\progr\fundamentalмай\5. Exercise List\05.BombNumbers\bin\Debug\net5.0\05.BombNumbers.exe
+C:\progr\fundamentalмай\5. Exercise List\05.BombNumbers\bin\Debug\net5.0\05.BombNumbers.deps.json
+C:\progr\fundamentalмай\5. Exercise List\05.BombNumbers\bin\Debug\net5.0\05.BombNumbers.runtimeconfig.json
+C:\progr\fundamentalмай\5. Exercise List\05.BombNumbers\bin\Debug\net5.0\05.BombNumbers.runtimeconfig.dev.json
+C:\progr\fundamentalмай\5. Exercise List\05.BombNumbers\bin\Debug\net5.0\05.BombNumbers.dll
+C:\progr\fundamentalмай\5. Exercise List\05.BombNumbers\bin\Debug\net5.0\05.BombNumbers.pdb
+C:\progr\fundamentalмай\5. Exercise List\05.BombNumbers\obj\Debug\net5.0\05.BombNumbers.csproj.AssemblyReference.cache
+C:\progr\fundamentalмай\5. Exercise List\05.BombNumbers\obj\Debug\net5.0\05.BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\fundamentalмай\5. Exercise List\05.BombNumbers\obj\Debug\net5.0\05.BombNumbers.AssemblyInfoInputs.cache
+C:\progr\fundamentalмай\5. Exercise List\05.BombNumbers\obj\Debug\net5.0\05.BombNumbers.AssemblyInfo.cs
+C:\progr\fundamentalмай\5. Exercise List\05.BombNumbers\obj\Debug\net5.0\05.BombNumbers.csproj.CoreCompileInputs.cache
+C:\progr\fundamentalмай\5. Exercise List\05.BombNumbers\obj\Debug\net5.0\05.BombNumbers.dll
+C:\progr\fundamentalмай\5. Exercise List\05.BombNumbers\obj\Debug\net5.0\refint\05.BombNumbers.dll
+C:\progr\fundamentalмай\5. Exercise List\05.BombNumbers\obj\Debug\net5.0\05.BombNumbers.pdb
+C:\progr\fundamentalмай\5. Exercise List\05.BombNumbers\obj\Debug\net5.0\05.BombNumbers.genruntimeconfig.cache
+C:\progr\fundamentalмай\5. Exercise List\05.BombNumbers\obj\Debug\net5.0\ref\05.BombNumbers.dll
